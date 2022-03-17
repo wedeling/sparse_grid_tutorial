@@ -1,4 +1,4 @@
-# sparse grid tutorials
+# Adaptive sparse-grid tutorials
 
 This repository contains the Jupyter notebooks from the Examples section of the Adaptive sparse-grid tutorial:
 
